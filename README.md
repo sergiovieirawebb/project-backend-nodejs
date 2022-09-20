@@ -43,7 +43,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3001/login`
   <img alt="Preview" src="./.github/preview/3.png">
 </p>
 
-#### Faz login `POST /login`
+#### Fazer login `POST /login`
 
 > corpo do envio
 ```json
@@ -71,7 +71,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3001/login`
 </p>
 
 
-#### Busca todos usuários `GET /users`
+#### Buscar todos usuários `GET /users`
 
 > corpo da resposta
 ```json
