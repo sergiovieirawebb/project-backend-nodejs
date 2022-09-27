@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Temaplate inicial para projetos de Backend NodeJS... :)
+Template inicial para projetos de Backend NodeJS... :)
 
 ## Como executar
 
