@@ -45,7 +45,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3001/login`
 
 #### Fazer login `POST /login`
 
-> corpo do envio
+> body do envio
 ```json
 
 {
@@ -55,7 +55,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3001/login`
 
 ```
 
-> corpo da resposta
+> body da resposta
 ```json
 
 {
@@ -73,7 +73,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3001/login`
 
 #### Buscar todos usuários `GET /users`
 
-> corpo da resposta
+> body da resposta
 ```json
 [
   {
