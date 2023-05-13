@@ -64,7 +64,7 @@ Por fim, a aplicação estará disponível em `http://localhost:3001/login`
 
 ```
 
-- Atenção: inserir em Authorization o token gerado no login para acessar as rotas abaixo.
+- Atenção: inserir em Authorization o token gerado no login para acessar a rota abaixo.
 
 <p align="center">
   <img alt="Preview" src="./.github/preview/2.png">
