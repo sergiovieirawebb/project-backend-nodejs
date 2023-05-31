@@ -6,7 +6,7 @@
 
 ## Projeto
 
-Sérgio criou um boilerplate para seus projetos de Backend NodeJS, utilizando as seguintes tecnologias:
+Sérgio criou um boilerplate para projetos de Backend NodeJS, utilizando as seguintes tecnologias:
 
 - [Docker](https://www.docker.com/)
 - [NodeJs](https://nodejs.org/)
