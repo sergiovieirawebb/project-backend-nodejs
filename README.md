@@ -4,9 +4,9 @@
   <img alt="Preview" src="./.github/preview/1.png">
 </p>
 
-## Tecnologias
+## Projeto
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Sérgio criou um boilerplate para seus projetos de Backend NodeJS, utilizando as seguintes tecnologias:
 
 - [Docker](https://www.docker.com/)
 - [NodeJs](https://nodejs.org/)
@@ -17,10 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Sequelize](https://sequelize.org/)
 - [SequelizeCli](https://www.npmjs.com/package/sequelize-cli)
 - [JsonWebToken](https://jwt.io/)
-
-## Projeto
-
-Boilerplate para projetos de Backend NodeJS... :)
 
 ## Como executar
 
