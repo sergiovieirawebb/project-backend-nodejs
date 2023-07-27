@@ -6,7 +6,7 @@
 
 ## Projeto
 
-Boilerplate para projetos de Backend NodeJs, utilizando as seguintes tecnologias:
+ Template inicial para projetos de Backend NodeJS, utilizando as seguintes tecnologias:
 
 - [Docker](https://www.docker.com/)
 - [NodeJs](https://nodejs.org/)
