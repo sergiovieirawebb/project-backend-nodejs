@@ -6,7 +6,7 @@
 
 ## Projeto
 
- Template inicial para projetos de Backend NodeJS, utilizando as seguintes tecnologias:
+ Base inicial para projetos de Backend NodeJS, utilizando as seguintes tecnologias:
 
 - [Docker](https://www.docker.com/)
 - [NodeJs](https://nodejs.org/)
